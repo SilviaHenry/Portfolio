@@ -1,9 +1,10 @@
 body {
     background-color: #f9f6f0;
     opacity: 1;
-    background-image:  radial-gradient(#8C1C13 0.500000000000001px, transparent 0.8500000000000001px), radial-gradient(#8C1C13 0.500000000000001px, #f9f6f0 0.8500000000000001px);
-    background-size: 34px 34px;
-    background-position: 0 0,17px 17px;
+    background-image:  radial-gradient(#8C1C13 0.45px, transparent 0.75px), radial-gradient(#8C1C13 0.45px, #f9f6f0 0.75px);
+    background-size: 40px 40px;
+    background-position: 0 0,20px 20px;
+
   }
   
   #navbar {
